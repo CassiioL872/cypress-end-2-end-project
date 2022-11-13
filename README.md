@@ -1,0 +1,2 @@
+UI and API tests with Cypress using App Actions arquitechure. To report the tests i used the mochawesome report that generate an HTML report. To run all tests with mochawesome report use the command: npm run report
+The goal of this project is to test a social midia application that allow you to post and interact with pictures.
